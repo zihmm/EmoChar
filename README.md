@@ -2,7 +2,9 @@
 
 A macOS utility app for browsing and copying emojis and Unicode symbols. Select any character and it's instantly copied to your clipboard.
 
-![App Icon](./src/Resources/Icon.png)
+<p align="center">
+  <img src="src/Resources/Icon.png" alt="App Icon" width=400>
+</p>
 
 ## Features
 
