@@ -1,0 +1,17 @@
+# Xcode build artifacts
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+.idea/
+EmoChar.xcodeproj/xcuserdata/
+EmoChar.xcodeproj/project.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+
+
+# Claude Code
+.claude/
