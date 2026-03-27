@@ -3,7 +3,7 @@
 A macOS utility app for browsing and copying emojis and Unicode symbols. Select any character and it's instantly copied to your clipboard.
 
 <p align="center">
-  <img src="src/Resources/Icon.png" alt="App Icon" width=400>
+  <img src="src/Resources/GH-Icon.png" alt="App Icon">
 </p>
 
 ## Features
@@ -14,7 +14,7 @@ A macOS utility app for browsing and copying emojis and Unicode symbols. Select 
 - **Search** — filters across all characters in the active category
 - **Category switcher** — segmented control inside the emoji view scrolls directly to any sub-category
 
-![EmoChar Screenshot](./src/Resources/Screenshot.png)
+![EmoChar Screenshot](./src/Resources/screenshot.png)
 
 ## Requirements
 
