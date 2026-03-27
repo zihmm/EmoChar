@@ -14,7 +14,7 @@ A macOS utility app for browsing and copying emojis and Unicode symbols. Select 
 - **Search** — filters across all characters in the active category
 - **Category switcher** — segmented control inside the emoji view scrolls directly to any sub-category
 
-![EmoChar Screenshot](./src/Resources/screenshot.png)
+![EmoChar Screenshot](./src/Resources/Screenshot.png)
 
 ## Requirements
 
