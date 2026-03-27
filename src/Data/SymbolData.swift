@@ -935,6 +935,11 @@ enum SymbolData {
         .init(char: "╱", name: "Diagonal Slash", category: .arrows),
         .init(char: "╲", name: "Diagonal Backslash", category: .arrows),
         .init(char: "╳", name: "Light Diagonal Cross", category: .arrows),
+        // Typographie
+        .init(char: "«",  name: "Left Double Angle", category: .misc),
+        .init(char: "»",  name: "Right Double Angle", category: .misc),
+        .init(char: "‹",  name: "Left Single Angle", category: .misc),
+        .init(char: "›",  name: "Right Single Angle", category: .misc),
     ]
 
     // MARK: - Math & Currency (Unicode)
@@ -1082,27 +1087,17 @@ enum SymbolData {
         .init(char: "☂",  name: "Umbrella", category: .misc),
         .init(char: "☃",  name: "Snowman", category: .misc),
         .init(char: "☄",  name: "Comet", category: .misc),
-        .init(char: "⭐", name: "Star", category: .misc),
-        .init(char: "⚡",  name: "Lightning", category: .misc),
+        
         .init(char: "❄",  name: "Snowflake", category: .misc),
-        .init(char: "🌈", name: "Rainbow", category: .misc),
+        
         // Communication / UI
         .init(char: "✉",  name: "Envelope", category: .misc),
         .init(char: "☎",  name: "Telephone", category: .misc),
-        .init(char: "⌛",  name: "Hourglass", category: .misc),
-        .init(char: "⌚",  name: "Watch", category: .misc),
+        
         .init(char: "♻",  name: "Recycling", category: .misc),
         .init(char: "⚠",  name: "Warning", category: .misc),
-        .init(char: "⛔",  name: "No Entry", category: .misc),
-        .init(char: "🔒", name: "Lock", category: .misc),
-        .init(char: "🔓", name: "Unlock", category: .misc),
-        .init(char: "🔑", name: "Key", category: .misc),
-        .init(char: "🔗", name: "Link", category: .misc),
+        
         // Typography
-        .init(char: "«",  name: "Left Double Angle", category: .misc),
-        .init(char: "»",  name: "Right Double Angle", category: .misc),
-        .init(char: "‹",  name: "Left Single Angle", category: .misc),
-        .init(char: "›",  name: "Right Single Angle", category: .misc),
         .init(char: "\u{201E}", name: "Low Double Quote", category: .misc),
         .init(char: "\u{201C}", name: "Left Double Quote", category: .misc),
         .init(char: "\u{201D}", name: "Right Double Quote", category: .misc),
